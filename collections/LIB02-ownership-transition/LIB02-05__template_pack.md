@@ -16,7 +16,14 @@ Make missing evidence and unresolved liabilities visible to advisers before clos
 Diligence coordinator; counsel; CPA; PIC; privacy.
 
 ## How to use the companion tools
-`tools/LIB02-diligence-request-list.md`, `tools/LIB02-exceptions-log.csv`, `tools/LIB02-closing-evidence-index.md`, `../artifacts/02-diligence-category-checklist.md`.
+
+| Tool | Where to find it |
+|------|------------------|
+| Diligence request list | Companion list in this topic’s tools folder (`tools/LIB02-diligence-request-list.md`) |
+| Exceptions log | Companion CSV in this topic’s tools folder (`tools/LIB02-exceptions-log.csv`) |
+| Closing evidence index | Companion index in this topic’s tools folder (`tools/LIB02-closing-evidence-index.md`) |
+| Diligence category checklist | Companion checklist in this topic’s tools folder (`tools/02-diligence-category-checklist.md`) |
+
 
 ## Core content
 ### Exception severity
@@ -141,6 +148,7 @@ List every must/shall and its cite number. List held claims. Confirm no invented
 
 1. Tex. Occ. Code §560.101 (License Not Transferable). https://texas.public.law/statutes/tex._occ._code_section_560.101. Accessed 2026-09-19.
 2. TSBP. Forms to Update a Pharmacy License. https://www.pharmacy.texas.gov/licensees/pharmacy-update-forms.asp. Accessed 2026-09-19.
+3. TSBP. Change of Ownership. https://www.pharmacy.texas.gov/licensees/pharmacy-update-forms.asp. Accessed 2026-09-19.
 3. TSBP. Change of Ownership. https://www.pharmacy.texas.gov/applicants/change-of-ownership.asp. Accessed 2026-09-19.
 4. 21 CFR §1301.52 (Termination of registration; transfer of registration; distribution upon discontinuance). https://www.ecfr.gov/current/title-21/chapter-II/part-1301/section-1301.52. Accessed 2026-09-19.
 5. DEA. Pharmacist's Manual (2022) — Transfer of Business. https://www.deadiversion.usdoj.gov/GDP/(DEA-DC-046R1)(EO-DEA154R1)_Pharmacist's_Manual_DEA.pdf. Accessed 2026-09-19.
