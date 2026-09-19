@@ -1,5 +1,5 @@
 # Inventory as service capacity and cash exposure
-**Collection:** LIB08-inventory-diversion  
+**Collection:** LIB-08 Inventory as service capacity and cash exposure (Topic 06: Inventory, purchasing & diversion)  
 **Document type:** introduction  
 **Audience:** Owners, PICs, inventory leads, consultant pharmacists, ASC medication ops leads  
 **Jurisdiction:** US-wide DEA/FDA DSCSA; Texas Class C (and Class A discovery) verification worksheet  
