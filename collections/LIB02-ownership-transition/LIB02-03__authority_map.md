@@ -18,7 +18,9 @@ Map ownership, registration, payer, and data-transfer questions by entity and st
 Transaction attorney owns legal conclusions; PIC owns DEA/CS operational rows; privacy reviewer owns PHI/BAA transfer questions; revenue owns payer re-credentialing (timelines **held** as same-day [02-C020]).
 
 ## How to use the companion tools
-`../artifacts/02-dea-transfer-notice-fields.md`, `../artifacts/02-texas-fein-ownership-test.md`, exceptions log.
+
+Use the DEA transfer notice fields worksheet and Texas FEIN/ownership test (companions in this topic’s tools folder), plus the exceptions log.
+
 
 ## Core content
 ### Approval dependency register
