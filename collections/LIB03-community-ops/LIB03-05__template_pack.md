@@ -16,7 +16,15 @@ Own community work-queue records and assemble links to canonical exception forms
 Tech lead maintains register; PIC audits samples weekly.
 
 ## How to use the companion tools
-`tools/LIB03-wip-register.csv`, `tools/LIB03-shift-handoff.md`, `tools/LIB03-counseling-doc-checklist.md`, plus `../artifacts/03-wip-register.csv` and `../artifacts/03-shift-handoff-sheet.md`.
+
+| Tool | Where to find it |
+|------|------------------|
+| WIP register | Companion CSV in this topic’s tools folder (`tools/LIB03-wip-register.csv`) |
+| Shift handoff sheet | Companion sheet in this topic’s tools folder (`tools/LIB03-shift-handoff.md`) |
+| Counseling documentation checklist | Companion checklist in this topic’s tools folder (`tools/LIB03-counseling-doc-checklist.md`) |
+| WIP register (worksheet twin) | Same collection → tools / worksheets (`tools/03-wip-register.csv`) |
+| Shift handoff (worksheet twin) | Same collection → tools / worksheets (`tools/03-shift-handoff-sheet.md`) |
+
 
 ## Core content
 Handoff fields mirror literature: problem, status, needed info, next steps [9]. Reminder: sheet is ops practice, not a named statutory form [held 03-C015].
@@ -92,7 +100,7 @@ Patient safety concern → on-duty RPh → PIC → owner/counsel as needed. Cont
 2. **COM:** Patient refuses consultation; refusal documented; product still verified.  
 3. **TEL:** Delivery; written info in bag; bilingual phone statement; temp logger checked.  
 4. **SPC:** Request for sterile compound; Class A-only site — stop and refer or re-class path.  
-5. **ASC:** Consultant asked to "just verify OR tray" without facility policy — clarify SOW.
+5. **ASC:** Consultant asked to “just verify OR tray” without facility policy — clarify SOW.
 
 ### Documentation hygiene
 Store observation cards and handoff sheets without real names when used as training examples. Production records stay in the PMS under normal privacy controls. This library file remains under `/workspace` only.
@@ -134,7 +142,7 @@ Patient safety concern → on-duty RPh → PIC → owner/counsel as needed. Cont
 2. **COM:** Patient refuses consultation; refusal documented; product still verified.  
 3. **TEL:** Delivery; written info in bag; bilingual phone statement; temp logger checked.  
 4. **SPC:** Request for sterile compound; Class A-only site — stop and refer or re-class path.  
-5. **ASC:** Consultant asked to "just verify OR tray" without facility policy — clarify SOW.
+5. **ASC:** Consultant asked to “just verify OR tray” without facility policy — clarify SOW.
 
 ### Documentation hygiene
 Store observation cards and handoff sheets without real names when used as training examples. Production records stay in the PMS under normal privacy controls. This library file remains under `/workspace` only.
