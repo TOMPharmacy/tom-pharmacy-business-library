@@ -19,15 +19,16 @@ Decision owner and PIC candidate complete assumptions; CPA builds projections yo
 
 ## How to use the companion tools
 
-| Tool | Path | Use |
-|------|------|-----|
-| Cash assumptions CSV | `tools/LIB01-cash-assumptions-blank.csv` | Enter quotes only |
-| Stop/proceed log | `tools/LIB01-stop-proceed-log.md` | Gate decisions |
-| Enrich worksheet | `../artifacts/01-stop-proceed-decision-worksheet.md` | Full prompt set |
-| Launch cash CSV (enrich) | `../artifacts/01-launch-cash-assumptions.csv` | Cross-check categories |
-| Class map | `../artifacts/01-texas-class-selection-map.md` | Class → cost drivers |
+| Tool | Where to find it | Use |
+|------|------------------|-----|
+| Cash assumptions CSV | Companion blank CSV in this topic’s tools folder (`tools/LIB01-cash-assumptions-blank.csv`) | Enter quotes only |
+| Stop/proceed log | Companion log in this topic’s tools folder (`tools/LIB01-stop-proceed-log.md`) | Gate decisions |
+| Stop/proceed decision worksheet | Companion worksheet in this topic’s tools folder (`tools/01-stop-proceed-decision-worksheet.md`) | Full prompt set |
+| Launch cash assumptions CSV | Companion CSV in this topic’s tools folder (`tools/01-launch-cash-assumptions.csv`) | Cross-check categories |
+| Texas class selection map | Companion map in this topic’s tools folder (`tools/01-texas-class-selection-map.md`) | Class → cost drivers |
 
 **Method:** (1) freeze the concept from LIB01-01, (2) fill one-time and monthly columns from vendor/CPA quotes, (3) run sensitivity by changing *your* volume and margin assumptions — never paste invented template rates, (4) record stop/proceed.
+
 
 ## Core content
 
