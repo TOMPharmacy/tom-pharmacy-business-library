@@ -21,6 +21,7 @@ PIC leads clinical/ops readiness; owner leads vendors and premises; technician l
 
 Use readiness checklist below; file signed copies privately. Pair with LIB01-04 stages 7–8 and workforce themes in LIB06 when staffing deep-dives begin.
 
+
 ## Core content
 
 ### Readiness checklist (abbreviated)
