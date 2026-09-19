@@ -16,7 +16,9 @@ Check whether acquired service, workforce, and cash assumptions held at 30/60/90
 Owner, PIC, CPA; counsel if board/DEA issues appear.
 
 ## How to use the companion tools
-`../artifacts/02-first-90-days-integration.md`; create local 30/60/90 sheets from template below.
+
+Use the first-90-days integration worksheet (companion in this topic’s tools folder); create local 30/60/90 sheets from the template below.
+
 
 ## Core content
 ### 30/60/90 review template
