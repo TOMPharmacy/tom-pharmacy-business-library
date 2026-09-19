@@ -1,1 +1,0 @@
-@/workspace/tom-research/basecamp-lib-first10/00-program/GITHUB-PUSH-RECEIPT.md
