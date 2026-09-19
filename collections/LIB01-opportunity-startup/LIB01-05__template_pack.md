@@ -19,15 +19,16 @@ Owner or designee runs interviews and observations; PIC reviews service-feasibil
 
 ## How to use the companion tools
 
-| Tool | Path |
-|------|------|
-| Interview sheet | `tools/LIB01-interview-sheet.md` |
-| Competitor/access form | `tools/LIB01-competitor-observation.md` |
-| Quote register CSV | `tools/LIB01-quote-register.csv` |
-| Decision log | `tools/LIB01-decision-log.md` |
-| Also | `../artifacts/01-stop-proceed-decision-worksheet.md` |
+| Tool | Where to find it |
+|------|------------------|
+| Interview sheet | Companion sheet in this topic’s tools folder (`tools/LIB01-interview-sheet.md`) |
+| Competitor/access form | Companion form in this topic’s tools folder (`tools/LIB01-competitor-observation.md`) |
+| Quote register CSV | Companion CSV in this topic’s tools folder (`tools/LIB01-quote-register.csv`) |
+| Decision log | Companion log in this topic’s tools folder (`tools/LIB01-decision-log.md`) |
+| Stop/proceed decision worksheet | Companion worksheet in this topic’s tools folder (`tools/01-stop-proceed-decision-worksheet.md`) |
 
 Copy tools into your private working folder; do not put PHI in shared Basecamp drafts.
+
 
 ## Core content
 
