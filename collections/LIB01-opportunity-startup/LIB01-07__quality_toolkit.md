@@ -19,11 +19,12 @@ Owner + PIC weekly; CPA monthly; counsel when authority rows reopen (e.g., added
 
 ## How to use the companion tools
 
-| Tool | Path |
-|------|------|
-| Metric dictionary | `tools/LIB01-metric-dictionary.csv` |
-| Forecast vs actual | `tools/LIB01-forecast-vs-actual.md` |
-| Cash CSV | `tools/LIB01-cash-assumptions-blank.csv` |
+| Tool | Where to find it |
+|------|------------------|
+| Metric dictionary | Companion CSV in this topic’s tools folder (`tools/LIB01-metric-dictionary.csv`) |
+| Forecast vs actual | Companion worksheet in this topic’s tools folder (`tools/LIB01-forecast-vs-actual.md`) |
+| Cash assumptions CSV | Companion blank CSV in this topic’s tools folder (`tools/LIB01-cash-assumptions-blank.csv`) |
+
 
 ## Core content
 
