@@ -17,16 +17,17 @@ Model total cost of ownership, implementation effort, continuity dependencies, a
 Owner + accountant; security official; PIC; counsel for contract/BAA terms.
 
 ## How to use the companion tools
-| Companion | Use |
-|-----------|-----|
-| `LIB07-02__business_workbook.md` | TCO, migration, exit, breach-cost scenarios (synthetic $) |
-| `LIB07-03__authority_map.md` | CE/BA · Privacy · Security · Breach · DEA e-Rx |
-| `LIB07-04__workflow.md` | Request → test → approve → monitor change |
-| `LIB07-05__template_pack.md` | RFP scorecard, BAA checklist, access review, retention |
-| `LIB07-06__implementation.md` | Roles, MFA, audit logs, synthetic acceptance |
-| `LIB07-07__quality_toolkit.md` | SRA cadence, tabletop breach, downtime drill |
-| `LIB07-08__client_development.md` | Explain digital service & data boundaries to partners |
-| `../CLAIM-LEDGER.csv` | Supported vs held claims |
+
+| Companion | Where to find it | Use |
+|-----------|------------------|-----|
+| Business workbook | Same collection → LIB07-02 | TCO, migration, exit, breach-cost scenarios (synthetic $) |
+| Authority map | Same collection → LIB07-03 | CE/BA · Privacy · Security · Breach · DEA e-Rx |
+| Workflow | Same collection → LIB07-04 | Request → test → approve → monitor change |
+| Template pack | Same collection → LIB07-05 | RFP scorecard, BAA checklist, access review, retention |
+| Implementation | Same collection → LIB07-06 | Roles, MFA, audit logs, synthetic acceptance |
+| Quality toolkit | Same collection → LIB07-07 | SRA cadence, tabletop breach, downtime drill |
+| Client development | Same collection → LIB07-08 | Explain digital service & data boundaries to partners |
+| Claim ledger | Same collection → claim ledger (`CLAIM-LEDGER.csv`) | Supported vs held claims |
 
 
 ## Core content
@@ -111,7 +112,7 @@ Complete with PIC (and counsel for L3 rows) against **live** primary pages on th
 9. Health Information Technology Use and Patient Safety: Study of Pharmacists in Nebraska. PMC6473452. https://pmc.ncbi.nlm.nih.gov/articles/PMC6473452/. Accessed 2026-09-19.
 
 ## Unresolved / held
-- OCR Security Rule NPRM (proposed modifications) noted on OCR pages — monitor for final rule; this pack cites the current summary only.
+- OCR Security Rule NPRM (proposed modifications) noted on OCR pages — monitor for final rule; this pack cites the current Security Rule summary.
 - Product-specific PMS/e-Rx endorsements: **out of scope**.
 - **HELD (editorial):** MFA/RTO/RPO scoring tips; telepharmacy encryption stack tips — practice suggestions, not shalls.
 - Exact multi-year Texas pharmacy record retention matrix beyond Class C citations: verify Class A / other classes separately before publishing a single statewide table.
