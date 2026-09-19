@@ -19,7 +19,8 @@ Project lead (often owner) owns the Gantt; PIC owns inspection readiness; counse
 
 ## How to use the companion tools
 
-Use stop/proceed log (`tools/LIB01-stop-proceed-log.md`) as Stage 0 gate. Authority matrix (LIB01-03) feeds Stage 2–4 evidence. Cash CSV must pass before Stage 6 “announce opening.”
+Use the stop/proceed log (companion in this topic’s tools folder) as Stage 0 gate. Authority matrix (LIB01-03) feeds Stage 2–4 evidence. Cash CSV must pass before Stage 6 “announce opening.”
+
 
 ## Core content
 
