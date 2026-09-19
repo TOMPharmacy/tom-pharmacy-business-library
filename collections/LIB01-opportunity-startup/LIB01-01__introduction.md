@@ -20,15 +20,16 @@ This introduction helps you compare unmet local needs, customer groups, and feas
 
 ## How to use the companion tools
 
-| Tool | Location | Use |
-|------|----------|-----|
-| Stop/proceed decision worksheet | `../artifacts/01-stop-proceed-decision-worksheet.md` | Force gates: need, class, authority, cash |
-| Texas class selection map | `../artifacts/01-texas-class-selection-map.md` | Match services → Class A–G / Remote |
-| Setting-variant branch checklist | `../artifacts/01-setting-variant-branch-checklist.md` | Skip non-applicable settings |
-| Launch cash assumptions CSV | `../artifacts/01-launch-cash-assumptions.csv` and `tools/LIB01-cash-assumptions-blank.csv` | One-time vs monthly; blank inputs only |
-| Claim ledger | `../CLAIM-LEDGER.csv` | Check status before any “shall” |
+| Tool | Where to find it | Use |
+|------|------------------|-----|
+| Stop/proceed decision worksheet | Companion worksheet in this topic’s tools folder (`tools/01-stop-proceed-decision-worksheet.md`) | Force gates: need, class, authority, cash |
+| Texas class selection map | Companion map in this topic’s tools folder (`tools/01-texas-class-selection-map.md`) | Match services → Class A–G / Remote |
+| Setting-variant branch checklist | Companion checklist in this topic’s tools folder (`tools/01-setting-variant-branch-checklist.md`) | Skip non-applicable settings |
+| Launch cash assumptions CSV | Companion CSV in this topic’s tools folder (`tools/01-launch-cash-assumptions.csv`); blank working copy also in tools (`tools/LIB01-cash-assumptions-blank.csv`) | One-time vs monthly; blank inputs only |
+| Claim ledger | Same collection → claim ledger (`CLAIM-LEDGER.csv`) | Check status before any “shall” |
 
 Work order: (1) read this introduction, (2) complete setting branch rows that apply, (3) run Texas checklist, (4) fill stop/proceed worksheet, (5) only then draft a launch milestone plan (LIB01-04).
+
 
 ## Core content
 
@@ -153,4 +154,3 @@ The following claims remain **held** or unresolved. Do not promote them to “su
 | — | Payer/PBM enrollment timelines | Deferred to LIB05 (Topic 04) | Revenue cycle |
 
 **Also unresolved (from UNRESOLVED.md):** Pilot Drive LIB01 docs not used as authority; NABP eLTP is pharmacist personal license transfer, not facility permit.
-
