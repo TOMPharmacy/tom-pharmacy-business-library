@@ -148,7 +148,6 @@ List every must/shall and its cite number. List held claims. Confirm no invented
 
 1. Tex. Occ. Code §560.101 (License Not Transferable). https://texas.public.law/statutes/tex._occ._code_section_560.101. Accessed 2026-09-19.
 2. TSBP. Forms to Update a Pharmacy License. https://www.pharmacy.texas.gov/licensees/pharmacy-update-forms.asp. Accessed 2026-09-19.
-3. TSBP. Change of Ownership. https://www.pharmacy.texas.gov/licensees/pharmacy-update-forms.asp. Accessed 2026-09-19.
 3. TSBP. Change of Ownership. https://www.pharmacy.texas.gov/applicants/change-of-ownership.asp. Accessed 2026-09-19.
 4. 21 CFR §1301.52 (Termination of registration; transfer of registration; distribution upon discontinuance). https://www.ecfr.gov/current/title-21/chapter-II/part-1301/section-1301.52. Accessed 2026-09-19.
 5. DEA. Pharmacist's Manual (2022) — Transfer of Business. https://www.deadiversion.usdoj.gov/GDP/(DEA-DC-046R1)(EO-DEA154R1)_Pharmacist's_Manual_DEA.pdf. Accessed 2026-09-19.
