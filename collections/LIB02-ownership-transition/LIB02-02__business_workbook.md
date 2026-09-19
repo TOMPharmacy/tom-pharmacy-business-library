@@ -16,7 +16,9 @@ Model working capital, inventory, and transition costs with **local inputs**. No
 CPA leads model; counsel flags license timing that can freeze billing; PIC flags inventory and CS constraints.
 
 ## How to use the companion tools
-`tools/LIB02-cash-scenarios.csv`, diligence list, and `../artifacts/02-first-90-days-integration.md`.
+
+Use the cash scenarios CSV and diligence list (companions in this topic’s tools folder), plus the first-90-days integration worksheet (same tools / worksheets set).
+
 
 ## Core content
 ### Workbook tabs
