@@ -21,7 +21,8 @@ Owner/PIC assemble the matrix; **state pharmacy counsel** and, where controlled 
 
 ## How to use the companion tools
 
-Pair with `../artifacts/01-texas-class-selection-map.md`, Class A/C checklists [5][12], DEA registration page [8], FDA compounding page [10], and `../CLAIM-LEDGER.csv`. For each row: paste live URL, date accessed, owner, and status (open / filed / approved / N/A).
+Pair with the Texas class selection map (companion in this topic’s tools folder), Class A/C checklists [5][12], DEA registration page [8], FDA compounding page [10], and the claim ledger (same collection). For each row: paste live URL, date accessed, owner, and status (open / filed / approved / N/A).
+
 
 ## Core content
 
