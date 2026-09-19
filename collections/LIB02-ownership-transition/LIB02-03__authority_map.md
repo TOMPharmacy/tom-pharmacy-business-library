@@ -168,7 +168,7 @@ List every must/shall and its cite number. List held claims. Confirm no invented
 4. 21 CFR §1301.52 (Termination of registration; transfer of registration; distribution upon discontinuance). https://www.ecfr.gov/current/title-21/chapter-II/part-1301/section-1301.52. Accessed 2026-09-19.
 5. DEA. Pharmacist's Manual (2022) — Transfer of Business. https://www.deadiversion.usdoj.gov/GDP/(DEA-DC-046R1)(EO-DEA154R1)_Pharmacist's_Manual_DEA.pdf. Accessed 2026-09-19.
 6. DEA. Registration. https://www.deadiversion.usdoj.gov/drugreg/registration.html. Accessed 2026-09-19.
-7. SBA. Plan your business — Buy an existing business or franchise. https://www.sba.gov/business-guide/plan-your-business/calculate-your-startup-costs. Accessed 2026-09-19.
+7. SBA. 7(a) loans. https://www.sba.gov/loans/7a-loans/. Accessed 2026-09-19.
 8. SBA. Plan your business — Buy an existing business or franchise. https://www.sba.gov/business-guide/plan-your-business/calculate-your-startup-costs. Accessed 2026-09-19.
 9. Mattingly TJ 2nd et al. Community Pharmacy Turnover… *JAMA Netw Open*. 2025. PMID:40748545. Accessed 2026-09-19.
 10. Guadamuz JS et al. More US Pharmacies Closed Than Opened In 2018–21… *Health Aff*. 2024. doi:10.1377/hlthaff.2024.00192. Accessed 2026-09-19.
