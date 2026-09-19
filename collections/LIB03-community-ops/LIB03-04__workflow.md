@@ -16,7 +16,9 @@ Represent ordinary work, holds, and accountable professional decisions from requ
 Entire dispensing team; PIC owns exceptions; tech lead owns WIP hygiene.
 
 ## How to use the companion tools
-`../artifacts/03-request-to-handoff-workflow.md`, WIP register, shift handoff sheet.
+
+Use the request-to-handoff workflow (companion in this topic’s tools folder), WIP register, and shift handoff sheet.
+
 
 ## Core content
 ### Workflow map
@@ -95,7 +97,7 @@ Patient safety concern → on-duty RPh → PIC → owner/counsel as needed. Cont
 2. **COM:** Patient refuses consultation; refusal documented; product still verified.  
 3. **TEL:** Delivery; written info in bag; bilingual phone statement; temp logger checked.  
 4. **SPC:** Request for sterile compound; Class A-only site — stop and refer or re-class path.  
-5. **ASC:** Consultant asked to "just verify OR tray" without facility policy — clarify SOW.
+5. **ASC:** Consultant asked to “just verify OR tray” without facility policy — clarify SOW.
 
 ### Documentation hygiene
 Store observation cards and handoff sheets without real names when used as training examples. Production records stay in the PMS under normal privacy controls. This library file remains under `/workspace` only.
@@ -137,7 +139,7 @@ Patient safety concern → on-duty RPh → PIC → owner/counsel as needed. Cont
 2. **COM:** Patient refuses consultation; refusal documented; product still verified.  
 3. **TEL:** Delivery; written info in bag; bilingual phone statement; temp logger checked.  
 4. **SPC:** Request for sterile compound; Class A-only site — stop and refer or re-class path.  
-5. **ASC:** Consultant asked to "just verify OR tray" without facility policy — clarify SOW.
+5. **ASC:** Consultant asked to “just verify OR tray” without facility policy — clarify SOW.
 
 ### Documentation hygiene
 Store observation cards and handoff sheets without real names when used as training examples. Production records stay in the PMS under normal privacy controls. This library file remains under `/workspace` only.
