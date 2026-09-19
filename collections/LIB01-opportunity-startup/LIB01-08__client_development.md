@@ -19,11 +19,12 @@ Owner/BD drafts; PIC verifies service is inside license and staffing; counsel re
 
 ## How to use the companion tools
 
-| Tool | Path |
-|------|------|
-| Positioning canvas | `tools/LIB01-positioning-canvas.md` |
-| Claims–evidence checklist | `tools/LIB01-claims-evidence-checklist.md` |
-| Interview evidence | `tools/LIB01-interview-sheet.md` |
+| Tool | Where to find it |
+|------|------------------|
+| Positioning canvas | Companion canvas in this topic’s tools folder (`tools/LIB01-positioning-canvas.md`) |
+| Claims–evidence checklist | Companion checklist in this topic’s tools folder (`tools/LIB01-claims-evidence-checklist.md`) |
+| Interview evidence | Companion sheet in this topic’s tools folder (`tools/LIB01-interview-sheet.md`) |
+
 
 ## Core content
 
@@ -160,3 +161,4 @@ Do **not** promote held claims to supported status without primary confirmation 
 | 01-C018 | NCPDP ID issued automatically with NPI | Unverified commercial path | Revenue cycle |
 | 01-C019 | Class C before HHSC substantially complete | Contradicts checklist indication | Counsel + ASC admin |
 | — | Live TSBP fee amounts; remote TX packet; USP chapters; PBM timelines | See UNRESOLVED.md | Ops / PIC |
+
