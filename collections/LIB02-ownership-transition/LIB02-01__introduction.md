@@ -16,7 +16,9 @@ Compare acquisition, startup, and partnership through operational fit and eviden
 Acquisition operator + transaction attorney + pharmacy accountant + receiving PIC + privacy reviewer. Do not skip counsel on entity vs asset structure [held: 02-C019].
 
 ## How to use the companion tools
-Use `../artifacts/02-diligence-category-checklist.md`, `tools/LIB02-diligence-request-list.md`, and suitability scorecard below. Pair cash questions with LIB02-02.
+
+Use the diligence category checklist (companion in this topic’s tools folder), the diligence request list (same tools folder), and the suitability scorecard below. Pair cash questions with LIB02-02.
+
 
 ## Core content
 ### Suitability scorecard (qualitative 1–5 user scores)
