@@ -21,16 +21,18 @@ Inventory integrity is both **service capacity** (can you fill the next prescrip
 - **Quality lead:** wire Form 106 and suspect-product events into incident learning (Topic 08 / LIB09).
 
 ## How to use the companion tools
-| Companion | Use |
-|-----------|-----|
-| `LIB08-02__business_workbook.md` | Turns, shrink, CS variance, Form 106 discovery clock (blank $) |
-| `LIB08-03__authority_map.md` | Federal vs Texas shall map with live URLs |
-| `LIB08-04__workflow.md` | Purchase → receive → stock → count → report |
-| `LIB08-05__template_pack.md` | Receiving, ATP log, dual-control, theft/loss cover sheet |
-| `LIB08-06__implementation.md` | Badge, camera, perpetual, DSCSA inbox roles |
-| `LIB08-07__quality_toolkit.md` | Variance metrics, mock Form 106 drill, CAPA |
-| `LIB08-08__client_development.md` | ASC/clinic inventory diagnostic offer (synthetic B2B) |
-| `../CLAIM-LEDGER.csv` | Claim status (supported / held) |
+
+| Companion | Where to find it | Use |
+|-----------|------------------|-----|
+| Business workbook | Same collection → LIB08-02 | Turns, shrink, CS variance, Form 106 discovery clock (blank $) |
+| Authority map | Same collection → LIB08-03 | Federal vs Texas shall map with live URLs |
+| Workflow | Same collection → LIB08-04 | Purchase → receive → stock → count → report |
+| Template pack | Same collection → LIB08-05 | Receiving, ATP log, dual-control, theft/loss cover sheet |
+| Implementation | Same collection → LIB08-06 | Badge, camera, perpetual, DSCSA inbox roles |
+| Quality toolkit | Same collection → LIB08-07 | Variance metrics, mock Form 106 drill, CAPA |
+| Client development | Same collection → LIB08-08 | ASC/clinic inventory diagnostic offer (synthetic B2B) |
+| Claim ledger | Same collection → claim ledger (`CLAIM-LEDGER.csv`) | Claim status (supported / held) |
+
 
 ## Core content
 ### Why inventory is a license and trust asset
